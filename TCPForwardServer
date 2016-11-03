@@ -9,7 +9,7 @@ public class TCPForwardServer {
 
     public static final int SOURCE_PORT = 50000; 
 
-    public static final String DESTINATION_HOST = "10.54.229.207"; 
+    public static final String DESTINATION_HOST = "remotehost"; 
 
     public static final int DESTINATION_PORT = 443; 
 
